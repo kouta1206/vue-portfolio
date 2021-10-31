@@ -4,7 +4,7 @@
       <div class="works-item">
       <div class="work">
         <a href="">
-          <img src="../img/isara.png" alt="">
+          <img src="./img/isara.png" alt="">
           <div class="work-txt">
             <p>HTML、CSSを用いて、isaraというランディングページのコーディングjavascriptのみでアコーディオンUIを実装</p>
           </div>
@@ -12,7 +12,7 @@
       </div>
       <div class="work">
         <a href="">
-          <img src="../img/coffee.png" alt="">
+          <img src="./img/coffee.png" alt="">
           <div class="work-txt">
             <p>HTML、CSSを用いて、coffeeという架空ランディングページのコーディング</p>
           </div>
@@ -20,7 +20,7 @@
       </div>
       <div class="work">
         <a href="">
-          <img src="../img/Number.png" alt="">
+          <img src="./img/Number.png" alt="">
           <div class="work-txt">
             <p>javascriptで数あてゲームを実装してみました</p>
           </div>
@@ -28,7 +28,7 @@
       </div>
       <div class="work">
         <a href="">
-          <img src="../img/Quiz.png" alt="">
+          <img src="./img/Quiz.png" alt="">
           <div class="work-txt">
             <p>javascriptでクイズwebアプリを実装してみました</p>
           </div>
@@ -36,7 +36,7 @@
       </div>
       <div class="work">
         <a href="">
-          <img src="../img/portfolio.png" alt="">
+          <img src="./img/portfolio.png" alt="">
           <div class="work-txt">
             <p>Vue.jsでこちらのポートフォリオサイトを制作してみました</p>
           </div>
