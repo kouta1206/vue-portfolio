@@ -32,21 +32,21 @@
         <h2>skill</h2>
         <div class="skills">
           <div class="skill">
-            <img src="./img/html.svg" alt="">
+            <img src="../img/html.svg" alt="">
             <div class="skill-txt">
               <p>isaraというLP、架空のLPをコーディングしてみました</p>
             </div>
           </div>
 
           <div class="skill">
-            <img src="./img/css.jpg" alt="">
+            <img src="../img/css.jpg" alt="">
             <div class="skill-txt">
               <p>LPのレスポンシブ対応や基本的なアニメーションをjavascriptミニゲームで実装しました</p>
             </div>
           </div>
 
           <div class="skill">
-            <img src="./img/js.png" alt="" style="width: 150px;">
+            <img src="../img/js.png" alt="" style="width: 150px;">
              <div class="skill-txt">
               <p>javascriptで数あてゲームやクイズアプリなどを制作しました。</p>
             </div>
@@ -54,7 +54,7 @@
 
 
           <div class="skill">
-            <img src="./img/vue-logo.png" alt="">
+            <img src="../img/vue-logo.png" alt="">
             <div class="skill-txt">
               <p>Vue.jsでポートフォリオサイトを制作しました。</p>
             </div>
