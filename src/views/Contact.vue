@@ -13,7 +13,7 @@
       <div class="e-mail">
         <p>For work requests, please contact this g-mail...</p>
         <font-awesome-icon :icon="['fas', 'envelope']" class=" fab mail"/>
-        <h2>ko.bump1206@gmail.com</h2>
+        <p class="address">ko.bump1206@gmail.com</p>
       </div>
     </div>
   </div>
@@ -27,6 +27,10 @@ export default {
 </script>
 
 <style scoped>
+
+.container {
+  width: 100%;
+}
 
 .contact {
   padding: 40px;
@@ -63,5 +67,12 @@ export default {
   font-size: 32px;
   margin-bottom: 50px;
   font-style: oblique;
+}
+
+@media screen and (max-width:490px) {
+  p.address {
+    font-size: 16px;
+    margin-top: 10px;
+  }
 }
 </style>
