@@ -3,7 +3,7 @@
       <h2>works</h2>
       <div class="works-item">
       <div class="work">
-        <a href="https://isara-coding.netlify.app">
+        <a href="isara-coding.netlify.app">
           <img src="./img/isara.png" alt="">
           <div class="work-txt">
             <p>HTML、CSSを用いて、isaraというランディングページのコーディングjavascriptのみでアコーディオンUIを実装</p>
@@ -19,7 +19,7 @@
         </a>
       </div>
       <div class="work">
-        <a href="https://shuffle-number-game.netlify.app/">
+        <a href="shuffle-number-game.netlify.app/">
           <img src="./img/Number.png" alt="">
           <div class="work-txt">
             <p>javascriptで数あてゲームを実装してみました</p>
@@ -27,7 +27,7 @@
         </a>
       </div>
       <div class="work">
-        <a href="https://movie-quiz-game.netlify.app/">
+        <a href="movie-quiz-game.netlify.app/">
           <img src="./img/Quiz.png" alt="">
           <div class="work-txt">
             <p>javascriptでクイズwebアプリを実装してみました</p>
