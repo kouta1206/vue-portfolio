@@ -49,8 +49,15 @@ export default {
 }
 
 @media screen and (max-width: 490px) {
+  .container {
+    position: relative;
+  }
   .vue-typer {
     font-size: 36px;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 }
 
