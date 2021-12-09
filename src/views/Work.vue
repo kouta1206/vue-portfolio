@@ -11,14 +11,6 @@
         </a>
       </div>
       <div class="work">
-        <a href="">
-          <img src="./img/coffee.png" alt="">
-          <div class="work-txt">
-            <p>HTML、CSSを用いて、coffeeという架空ランディングページのコーディング</p>
-          </div>
-        </a>
-      </div>
-      <div class="work">
         <a href="https://shuffle-number-game.netlify.app/">
           <img src="./img/Number.png" alt="">
           <div class="work-txt">
@@ -31,6 +23,14 @@
           <img src="./img/Quiz.png" alt="">
           <div class="work-txt">
             <p>javascriptでクイズwebアプリを実装してみました</p>
+          </div>
+        </a>
+      </div>
+      <div class="work">
+        <a href="https://portfolio-todo-app.netlify.app/">
+          <img src="./img/todo.png" alt="">
+          <div class="work-txt">
+            <p>Vue.jsでtodoアプリを制作してみました※データは保存されません</p>
           </div>
         </a>
       </div>
